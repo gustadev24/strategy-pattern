@@ -1,3 +1,3 @@
 public interface WeaponStrategy {
-    void attack();
+  void attack();
 }
